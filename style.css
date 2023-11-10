@@ -358,16 +358,6 @@ footer .footer-svgs {
     display: none;
   }
 
-  /* header .header-img-container h1 {
-    right: 0;
-    top: 0;
-    bottom: 15px;
-    left: 300px;
-    width: 600px;
-    height: 50px;
-    font-size: 3.5rem;
-  } */
-
   main h1 {
     text-align: start;
   }
@@ -382,13 +372,18 @@ footer .footer-svgs {
     align-items: center;
   }
 
+  footer .footer-first-section {
+    width: 300px;
+  }
+
   footer .footer-second-section {
     margin: auto 0;
+    width: 400px;
   }
 
   footer .footer-second-section img {
     height: 300px;
-    width: 400px;
+    width: 100%;
     border-radius: 0.25em;
   }
 
@@ -416,7 +411,7 @@ footer .footer-svgs {
     top: 0;
     bottom: 15px;
     left: 300px;
-    width: 600px;
+    width: 350px;
     height: 50px;
     font-size: 3.5rem;
   }
